@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**mannatydv06-debug/mannatydv06-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Mannat  👋
 
-Here are some ideas to get you started:
+🎓 I'm a B.Sc. Computer Science student at Delhi University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I'm currently learning Python, C++ and Data Structures & Algorithms.
+
+🌱 I'm building practical projects to strengthen my programming skills.
+
+🛠️ Languages and Tools
+
+- Python
+- C++
+- Git and GitHub
+- VS Code
+
+🚀 Current Projects
+
+- Student Record Management System — Python
+- More projects coming soon!
+
+🎯 My Goal
+To improve my problem-solving skills and become a skilled software developer.
+
+📫 Connect with me
+
+- LinkedIn: [Add your LinkedIn URL]
