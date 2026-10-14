@@ -24,4 +24,4 @@ To improve my problem-solving skills and become a skilled software developer.
 
 📫 Connect with me
 
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/mannat-yadav-56051940b?utm_source=share_via&utm_content=profile&utm_medium=member_android
